@@ -91,4 +91,4 @@ class Driver:
 
 if __name__ == '__main__':
     path = "./myInput.txt"
-    Driver.main()
+    Driver.main(path)
